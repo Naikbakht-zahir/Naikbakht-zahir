@@ -1,0 +1,47 @@
+#parent{
+    height: 170px;
+    width: 300px;
+    border: 2px solid black;
+}
+ img{
+    width: 300px;
+    height: 170px;
+ }
+ #child{
+    width: 150x;
+    height: 85px;
+    border: 1px solid rgb(159, 18, 18);
+ }
+.navbar{
+    border-radius: 30px;
+}
+.navbar ul{
+    overflow: auto;
+}
+.navbar  ul li{
+    text-decoration: none;
+    color: black;
+    float: left;
+    margin: 100px ;
+    padding: 5px;
+    list-style: none;
+    
+}
+    
+.navbar ul li a{
+    text-decoration: none;
+    color: black;
+}
+#A{
+margin-left: 25px;
+
+}
+#B{
+    margin-left: 25px;
+}
+#C{
+    margin-left: 25px;
+}
+
+
+
