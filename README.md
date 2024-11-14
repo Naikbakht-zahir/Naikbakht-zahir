@@ -1,9 +1,1 @@
-- 👋 Hi, I’m @Naikbakht-zahir
-- 👀 I’m interested in Coding...
-- 🌱 I’m currently learning HTML,CSS,JS...
-- 📫 How to reach me ...
 
-<!---
-Naikbakht-zahir/Naikbakht-zahir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
